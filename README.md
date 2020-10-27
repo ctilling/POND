@@ -15,7 +15,7 @@ The main.py file takes five arguments, which are the path of input training file
 
 		ex) python main.py -tr train.txt -te test-fold.txt -r 3 -dim 200 100 200 -lr .01 -ne 50 -bs 128
 		
-	The default settings for are a batch size of 256, a learning rate of .001 and 100 epochs.
+The default settings for are a batch size of 256, a learning rate of .001 and 100 epochs.
 	
 We also include our implementation of GPTF
 
