@@ -1,6 +1,6 @@
 # POND
 
-This is our implementation for the paper [_Probabilistic Neural Kernel Tensor Decomposition_], by Conor Tillinghast, Shikai Fang, Kai Zheng, and Shandian Zhe @  IEEE International Conference on Data Mining (ICDM), 2020.
+This is our implementation for the paper _Probabilistic Neural Kernel Tensor Decomposition_, by Conor Tillinghast, Shikai Fang, Kai Zheng, and Shandian Zhe @  IEEE International Conference on Data Mining (ICDM), 2020.
 
 MIT license
 
