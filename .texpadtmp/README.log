@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  27 OCT 2020 15:24
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  28 OCT 2020 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -636,17 +636,20 @@ LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 30.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (24.7821pt too wide) in paragraph at lines 34--34
+Overfull \hbox (24.7821pt too wide) in paragraph at lines 32--32
 []\EU1/lmtt/m/n/12 ex) python main.py -tr train.txt -te test-fold.txt -r 3 -dim 200 100 200 -lr .01 -ne 50 -bs 128[] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
+[5] [6
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
  (/Users/ctilling/POND/.texpadtmp/README.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 38.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 38.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
  20827 strings out of 493591
@@ -657,4 +660,4 @@ Here is how much of TeX's memory you used:
  1347 hyphenation exceptions out of 8191
  36i,4n,61p,10373b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/ctilling/POND/.texpadtmp/README.pdf (5 pages).
+Output written on /Users/ctilling/POND/.texpadtmp/README.pdf (7 pages).
